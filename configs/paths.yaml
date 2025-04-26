@@ -1,0 +1,4 @@
+data:
+  employees: /app/datasets/employees
+  detections: /app/datasets/detections
+  logs: /app/logs

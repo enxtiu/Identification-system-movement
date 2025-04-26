@@ -1,0 +1,8 @@
+yolo:
+  version: yolov8n
+  confidence_threshold: 0.7
+  iou_threshold: 0.5
+
+facenet:
+  input_size: 160x160
+  embedding_size: 128
