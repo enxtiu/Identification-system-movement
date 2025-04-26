@@ -30,7 +30,7 @@ async def send_frame(camera_id: str, file: UploadFile = File(...)):
         # Отправляем кадр в service2
         with open(frame_path, "rb") as f:
             response = requests.post(
-                "http://service2:8006/process",
+                "http://service2:8001/process",
                 files={"file": (frame_path, f, "image/jpeg")},
                 data={"camera_id": camera_id}
             )
@@ -47,4 +47,4 @@ async def send_frame(camera_id: str, file: UploadFile = File(...)):
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run(app, host="0.0.0.0", port=8005)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
