@@ -13,19 +13,19 @@ cameras:
     coordinates: [x, y]
   - id: cam_5
     zone: 'Склад3'
-    coordinates: [ x, y ]
+    coordinates: [x, y]
   - id: cam_6
     zone: 'Склад4'
-    coordinates: [ x, y ]
+    coordinates: [x, y]
   - id: cam_7
     zone: 'Склад5'
-    coordinates: [ x, y ]
+    coordinates: [x, y]
   - id: cam_8
     zone: 'Склад6'
-    coordinates: [ x, y ]
+    coordinates: [x, y]
   - id: cam_9
     zone: 'Склад7'
-    coordinates: [ x, y ]
+    coordinates: [x, y]
   - id: cam_10
     zone: 'Склад8'
-    coordinates: [ x, y ]
+    coordinates: [x, y]
