@@ -1,0 +1,31 @@
+cameras:
+  - id: cam_1
+    zone: "Главный вход"
+    coordinates: [55.3553, 86.0862]
+  - id: cam_2
+    zone: "Склад1"
+    coordinates: [55.3560, 86.0875]
+  - id: cam_3
+    zone: 'Тех-помещение'
+    coordinates: [x, y]
+  - id: cam_4
+    zone: 'Склад2'
+    coordinates: [x, y]
+  - id: cam_5
+    zone: 'Склад3'
+    coordinates: [ x, y ]
+  - id: cam_6
+    zone: 'Склад4'
+    coordinates: [ x, y ]
+  - id: cam_7
+    zone: 'Склад5'
+    coordinates: [ x, y ]
+  - id: cam_8
+    zone: 'Склад6'
+    coordinates: [ x, y ]
+  - id: cam_9
+    zone: 'Склад7'
+    coordinates: [ x, y ]
+  - id: cam_10
+    zone: 'Склад8'
+    coordinates: [ x, y ]
