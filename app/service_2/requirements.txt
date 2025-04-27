@@ -1,0 +1,8 @@
+fastapi==0.103.2
+uvicorn==0.23.2
+tensorflow==2.15.0
+deepface==0.0.79
+opencv-python==4.8.1.78
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+python-multipart==0.0.7
